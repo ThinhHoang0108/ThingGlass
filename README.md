@@ -108,7 +108,7 @@
 - [x] View glasses detail
 
 **2. User**
-- [x] Search, view plants
+- [x] Search, view glasses
 - [x] Add, update, remove cart
 - [x] Logout
 - [x] Update account information
