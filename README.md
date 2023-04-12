@@ -120,7 +120,6 @@
 - [x] Managing glasses
 - [x] Managing category
 - [x] Managing accounts
-- [x] Send email
 - [x] Update admin account information
 - [ ] Statistic revenue
 
