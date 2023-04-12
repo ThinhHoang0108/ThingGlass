@@ -43,7 +43,7 @@
 
 <img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/AboutUs.png"  alt="Quiz Simultae"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/userprofile.png"  alt="Quiz Review"  width="45%"></img>
 
-<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Cart.png"  alt="My Taken Quiz"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/checkout.png"  alt="Dashboard"  width="45%"></img
+<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Cart.png"  alt="My Taken Quiz"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/checkout.png"  alt="Dashboard"  width="45%"></img>
 
 </div>
 
