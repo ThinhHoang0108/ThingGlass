@@ -17,6 +17,8 @@
 
 - [Preview Screenshot](#preview-screenshot)
 
+- [Database design](#database-design)
+
 - [Technology](#technology)
 
 - [Functional requirements](#functional-requirements)
@@ -33,20 +35,23 @@
 
 <div  align="center">
 
-<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Home.png"  alt="Home Page"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/Login.png"  alt="Login Bar"  width="45%"></img>
+<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Home.png"  alt="Home Page"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Home2.png"  alt="Login Bar"  width="45%"></img>
 
-<img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/CoursePage.png"  alt="Course List"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/CourseDetail.png"  alt="Course Detail"  width="45%"></img>
+<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Shop.png"  alt="Course List"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Shop2.png"  alt="Course Detail"  width="45%"></img>
 
-<img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/BlogList.png"  alt="Blog List"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/BlogDetail.png"  alt="Blog Detail"  width="45%"></img>
+<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Login.png"  alt="Blog List"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Register.png"  alt="Blog Detail"  width="45%"></img>
 
-<img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/DoQuiz.png"  alt="Quiz Simultae"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/QuizReview.png"  alt="Quiz Review"  width="45%"></img>
+<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/AboutUs.png"  alt="Quiz Simultae"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/userprofile.png"  alt="Quiz Review"  width="45%"></img>
 
-<img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/MyTakenQuiz.png"  alt="My Taken Quiz"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/Dashboard.png"  alt="Dashboard"  width="45%"></img>
+<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Cart.png"  alt="My Taken Quiz"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/checkout.png"  alt="Dashboard"  width="45%"></img
 
-<img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/ManageQuestion.png"  alt="QuestionList"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/ManageQuestion2.png"  alt="Add Question"  width="45%"></img>
+</div>
 
-<img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/ManageQuiz.png"  alt="QuizList"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/ManageQuiz2.png"  alt="Add Quiz"  width="45%"></img>
+## Database design
 
+<div  align="center">
+
+<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Database.png"  alt="Home Page"  width="80%"></img>
 
 </div>
 
@@ -92,7 +97,6 @@
 - Lombok
 - JSTL
 - sqljdbc4
-- javax.mail
 - javax.activation-1.2.0
 
 ## Functional requirements
@@ -100,31 +104,22 @@
 **1. Guest:**
 - [x] Login by account
 - [x] Register an account
-- [x] Search, view courses
-- [x] View blogs
-- [x] View courses detail
-- [x] View blog's comment
-- [ ] Password retrieval
+- [x] Search, view glasses
+- [x] View glasses detail
 
 **2. User**
 - [x] Search, view plants
-- [x] Add, update, remove course registration
-- [x] View blogs
-- [x] View blog's comment
+- [x] Add, update, remove cart
 - [x] Logout
 - [x] Update account information
-- [x] Practice Quiz
-- [x] Comment blogs
-- [x] View taken quiz score, true/false answering
+- [x] View, manage orders
+- [x] Checkout
 
 
-**4. Admin:**
-- [x] Managing courses
-- [x] Managing lessons
+**3. Admin:**
+- [x] Managing glasses
+- [x] Managing category
 - [x] Managing accounts
-- [x] Managing slide
-- [x] Managing quiz
-- [x] Managing question
 - [x] Send email
 - [x] Update admin account information
 - [ ] Statistic revenue
@@ -133,9 +128,8 @@
 
 #| Name | Description
 -| ---- | -----------
-1| [web folder](https://github.com/ThinhHoang0108/OnlineLearning/tree/master/ISP392/web) | -----------
-2| [src folder](https://github.com/ThinhHoang0108/OnlineLearning/tree/master/ISP392/src/java) | -----------
-3| [Database file](https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/script.sql) | -----------
-4| [libs folder](https://github.com/ThinhHoang0108/OnlineLearning/tree/master/ISP392/lib) | -----------
+1| [web folder](https://github.com/ThinhHoang0108/ThingGlass/tree/main/StoreAssignment/web) | -----------
+2| [src folder](https://github.com/ThinhHoang0108/ThingGlass/tree/main/StoreAssignment/src/java) | -----------
+
 
 
