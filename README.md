@@ -51,7 +51,7 @@
 
 <div  align="center">
 
-<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Database.png"  alt="Home Page"  width="80%"></img>
+<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Database.png"  alt="Home Page"  width="70%"></img>
 
 </div>
 
