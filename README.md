@@ -33,7 +33,7 @@
 
 <div  align="center">
 
-<img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/HomePage2.png"  alt="Home Page"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/Login.png"  alt="Login Bar"  width="45%"></img>
+<img  src="https://github.com/ThinhHoang0108/ThingGlass/blob/main/StoreAssignment/preview/Home.png"  alt="Home Page"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/Login.png"  alt="Login Bar"  width="45%"></img>
 
 <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/CoursePage.png"  alt="Course List"  width="45%"></img> &nbsp;&nbsp; <img  src="https://github.com/ThinhHoang0108/OnlineLearning/blob/master/ISP392/preview/CourseDetail.png"  alt="Course Detail"  width="45%"></img>
 
